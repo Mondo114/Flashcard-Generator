@@ -4,5 +4,5 @@ function BasicCard (front, back) {
 }
 
 
-
+// console.log(BasicCard());
 module.exports = BasicCard;
