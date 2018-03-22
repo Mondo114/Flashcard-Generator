@@ -20,8 +20,8 @@ var clozeObjs = [{
 	cloze: "sith"
 },
 {
-	fullText: "Chewbacca is a member of the wookie species.",
-	cloze: "wookie"
+	fullText: "Chewbacca is a member of the wookiee species.",
+	cloze: "wookiee"
 },
 {
 	fullText: "TK421 is the code of the stormtrooper who isn't at his post in Star Wars: A New Hope.",
